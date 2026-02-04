@@ -1,0 +1,4 @@
+chromaDB_RAG/venv
+faiss_rag_simple/venv
+chromaDB_RAG/.env
+faiss_rag_simple/.env

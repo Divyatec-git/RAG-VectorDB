@@ -1,0 +1,10 @@
+FAISS (Facebook AI Similarity Search) is a library for efficient similarity search and clustering of dense vectors.
+It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM.
+FAISS is written in C++ with complete wrappers for Python/numpy.
+The library is developed by Facebook AI Research.
+RAG stands for Retrieval-Augmented Generation.
+It combines an information retrieval component with a text generator model.
+Embeddings are vector representations of text where similar meanings are close in the vector space.
+HNSW is a graph-based indexing algorithm used in vector databases like Chroma and FAISS.
+Gemini is a family of multimodal AI models developed by Google.
+FAISS supports both CPU and GPU execution.
