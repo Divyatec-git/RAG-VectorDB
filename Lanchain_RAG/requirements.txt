@@ -1,0 +1,20 @@
+# Core LangChain
+langchain>=0.1.0
+langchain-community>=0.0.30
+langchain-openai>=0.0.8
+langchain-google-genai
+# Vector Database
+chromadb>=0.4.22
+
+# Embeddings
+sentence-transformers>=2.2.2
+torch>=2.0.0
+
+# Tokenization
+tiktoken>=0.5.2
+
+# LLM API (OpenAI)
+openai>=1.6.0
+
+# Utilities
+python-dotenv>=1.0.0

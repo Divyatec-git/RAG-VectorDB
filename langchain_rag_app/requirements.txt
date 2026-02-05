@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain==0.2.14
+langchain-openai
+langchain-community==0.2.12
+chromadb
+sentence-transformers
+pydantic-settings
+python-multipart
+pypdf

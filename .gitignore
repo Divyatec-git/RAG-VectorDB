@@ -3,3 +3,10 @@ faiss_rag_simple/venv
 chromaDB_RAG/.env
 faiss_rag_simple/.env
 pinecode_RAG/venv
+pinecode_RAG/.env
+langchain_rag_app/venv
+langchain_rag_app/.env
+langchain_rag_app/chroma_db
+Lanchain_RAG/venv
+Lanchain_RAG/.env
+Lanchain_RAG/chroma_db
