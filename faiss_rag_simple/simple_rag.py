@@ -66,7 +66,7 @@ def generate_answer(query, context_chunks):
     
     try:
         response = client.models.generate_content(
-            model="gemini-2.0-flash",
+            model="gemini-3-flash-preview",
             contents=prompt
         )
         return response.text
@@ -86,7 +86,7 @@ if __name__ == "__main__":
         print("Searching...")
         context_chunks = search(query)
         print(f"Found {len(context_chunks)} relevant chunks.")
-        
+        print(context_chunks,"-------------")
         print("Generating answer...")
         answer = generate_answer(query, context_chunks)
         

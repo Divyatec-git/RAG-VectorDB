@@ -1,0 +1,12 @@
+pinecone
+sentence-transformers
+numpy
+fastapi
+uvicorn
+sentence-transformers
+pypdf
+tiktoken
+requests
+google-genai
+python-dotenv
+protobuf
